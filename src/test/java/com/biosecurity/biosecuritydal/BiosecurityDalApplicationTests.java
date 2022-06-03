@@ -1,10 +1,10 @@
-package com.biosecurity.application;
+package com.biosecurity.biosecuritydal;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ApplicationTests {
+class BiosecurityDalApplicationTests {
 
 	@Test
 	void contextLoads() {
